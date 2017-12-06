@@ -1,0 +1,15 @@
+html{
+    background-image: url("https://cdn0.vox-cdn.com/thumbor/nfM7FA-5VR1nL-Qd-cqlxtI8G3Q=/400x0/filters:no_upscale()/cdn0.vox-cdn.com/uploads/chorus_asset/file/8145353/stopthief.0.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1 {
+    font-family: "Spectral SC";
+}
+.block {
+    position: absolute;
+    width: 500px;
+}
+img {
+    width:500px;
+}
